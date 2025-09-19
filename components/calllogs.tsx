@@ -112,7 +112,7 @@ const CallLogs: React.FC<CallLogsProps> = ({ calls }) => {
     linkElement.click();
   };
 
-  const uniqueOutcomes = [...new Set(calls.map(call => call.outcome))];
+const uniqueOutcomes = Array.from(new Set(calls.map(call => call.outcome)));
 
   return (
     <div>
