@@ -21,18 +21,4 @@ The assignment includes creating **pre-call, function-call, and post-call webhoo
 - ✅ Integration with OpenMic via exposed API routes  
 - ✅ Tested locally with **Postman**  
 
----
-
-## 🔗 API Endpoints
-
-### 1️⃣ Pre-call Webhook
-Fetch patient details before a call begins.
-
-**Endpoint:**  
-`POST /api/webhook/pre-call`
-
-**Request Example:**
-```json
-{
-  "patientId": "123"
-}
+ 
