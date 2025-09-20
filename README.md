@@ -19,6 +19,6 @@ The assignment includes creating **pre-call, function-call, and post-call webhoo
 - ✅ API endpoints (`/pre-call`, `/function-call`, `/post-call`)  
 - ✅ Next.js frontend with **Bot List & Call Logs**  
 - ✅ Integration with OpenMic via exposed API routes  
-- ✅ Tested locally with **Postman**  
+  
 
  
