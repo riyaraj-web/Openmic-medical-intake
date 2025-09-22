@@ -2,7 +2,7 @@
 
 
 This project implements webhook endpoints and a simple UI to integrate with **OpenMic Voice Agents**.  
-This project includes creating **pre-call, function-call, and post-call webhooks**, exposing them via ngrok, and testing using Postman (since the OpenMic test call interface was unreliable).  
+This project includes creating **pre-call, function-call, and post-call webhooks**, exposing them via ngrok, and testing .  
 
 ---
 
