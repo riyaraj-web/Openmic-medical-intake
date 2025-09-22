@@ -7,10 +7,10 @@ This project includes creating **pre-call, function-call, and post-call webhooks
 ---
 
 ## 🚀 Tech Stack
-- **Framework**: Next.js (App Router)
+- **Framework**: Next.js 
 - **Language**: TypeScript
 - **Styling**: TailwindCSS
-- **Database (Optional)**: SQLite (via Prisma) for logs
+- **Database : SQLite (via Prisma) for logs
 - **Tunnel**: ngrok (to expose local APIs to OpenMic)
 
 ---
